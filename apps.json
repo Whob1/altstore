@@ -1,0 +1,96 @@
+{
+  "name": "Jace's IPA Vault",
+  "identifier": "com.jace.altstore.feed",
+  "apps": [
+    {
+      "name": "Delta",
+      "bundleIdentifier": "com.rileytestut.delta",
+      "developerName": "Riley Testut",
+      "version": "1.6.3",
+      "versionDate": "2024-12-25T00:00:00+0000",
+      "versionDescription": "GBA/NES/SNES/N64 Emulator",
+      "downloadURL": "https://cdn.altstore.io/file/altstore/apps/delta/Delta.ipa",
+      "iconURL": "https://cdn.altstore.io/file/altstore/apps/delta/icon.png"
+    },
+    {
+      "name": "uYouPlus",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "MiRO92",
+      "version": "18.40.2",
+      "versionDate": "2025-01-01T00:00:00+0000",
+      "versionDescription": "Modded YouTube: no ads, background play",
+      "downloadURL": "https://github.com/qnblackcat/uYouPlus/releases/download/v18.40.2/uYouPlus_18.40.2_YouTube_18.40.2.ipa",
+      "iconURL": "https://raw.githubusercontent.com/qnblackcat/uYouPlus/main/Icon.png"
+    },
+    {
+      "name": "Provenance",
+      "bundleIdentifier": "com.provenance.provenance",
+      "developerName": "Provenance Team",
+      "version": "1.5b",
+      "versionDate": "2024-09-10T00:00:00+0000",
+      "versionDescription": "Multi-console emulator (NES, SNES, Genesis, PSX beta)",
+      "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/v1.5b/Provenance.ipa",
+      "iconURL": "https://provenance-emu.com/assets/img/icon.png"
+    },
+    {
+      "name": "Clip",
+      "bundleIdentifier": "com.rileytestut.clip",
+      "developerName": "Riley Testut",
+      "version": "1.0",
+      "versionDate": "2024-12-20T00:00:00+0000",
+      "versionDescription": "Universal clipboard manager",
+      "downloadURL": "https://cdn.altstore.io/file/altstore/apps/clip/Clip.ipa",
+      "iconURL": "https://cdn.altstore.io/file/altstore/apps/clip/icon.png"
+    },
+    {
+      "name": "Spotify++ (Reborn)",
+      "bundleIdentifier": "com.spotify.client",
+      "developerName": "TheSickestGuy",
+      "version": "8.8.1",
+      "versionDate": "2025-01-02T00:00:00+0000",
+      "versionDescription": "Modded Spotify: ad-free, enhanced skipping",
+      "downloadURL": "https://github.com/TheSickestGuy/Spotify-Reborn/releases/download/8.8.1/Spotify_Reborn.ipa",
+      "iconURL": "https://i.imgur.com/CjcBN3R.png"
+    },
+    {
+      "name": "Instagram++",
+      "bundleIdentifier": "com.burbn.instagram",
+      "developerName": "UnlimApps",
+      "version": "300.0",
+      "versionDate": "2025-01-03T00:00:00+0000",
+      "versionDescription": "Download media, view stories anonymously",
+      "downloadURL": "https://github.com/dmnc-net/InstagramPlus/releases/download/v300.0/Instagram++.ipa",
+      "iconURL": "https://i.imgur.com/Ebn1y2a.png"
+    },
+    {
+      "name": "Snapchat Phantom",
+      "bundleIdentifier": "com.toyopagroup.picaboo",
+      "developerName": "Phantom",
+      "version": "11.68",
+      "versionDate": "2024-11-10T00:00:00+0000",
+      "versionDescription": "Snapchat mod with extra features",
+      "downloadURL": "https://github.com/dmnc-net/SnapchatPhantom/releases/download/v11.68/SnapchatPhantom.ipa",
+      "iconURL": "https://i.imgur.com/zjZkPcf.png"
+    },
+    {
+      "name": "PPSSPP",
+      "bundleIdentifier": "org.ppsspp.ppsspp",
+      "developerName": "Henrik Rydgård",
+      "version": "1.15.4",
+      "versionDate": "2024-12-10T00:00:00+0000",
+      "versionDescription": "PlayStation Portable emulator for iOS",
+      "downloadURL": "https://github.com/hrydgard/ppsspp/releases/download/v1.15.4/PPSSPP-iOS.ipa",
+      "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/PPSSPP_Logo.svg/1024px-PPSSPP_Logo.svg.png"
+    },
+    {
+      "name": "iNDS",
+      "bundleIdentifier": "com.williamcobb.iNDS",
+      "developerName": "William Cobb",
+      "version": "1.10.4",
+      "versionDate": "2024-10-10T00:00:00+0000",
+      "versionDescription": "Nintendo DS emulator for iOS",
+      "downloadURL": "https://github.com/WilliamLCobb/iNDS/releases/download/v1.10.4/iNDS.ipa",
+      "iconURL": "https://i.imgur.com/0nEktzA.png"
+    }
+  ]
+}
